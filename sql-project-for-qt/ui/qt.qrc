@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>style.qss</file>
+        <file>table.png</file>
+        <file>449daf5abf794887ff75b23b41f8e0e.jpg</file>
+        <file>d8387abb4ed2d7e0db2578690b29a45.jpg</file>
+        <file>438476ca37a1d95a72d9f4396865412.jpg</file>
+        <file>button.png</file>
+    </qresource>
+</RCC>
